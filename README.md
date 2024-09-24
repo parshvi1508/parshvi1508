@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Parshvi Jain</h1>
 <h3 align="center">Coding Dreams into Reality: Exploring the Art of Software, One Commit at a Time.</h3>
-
+- 📄 Ambitious CS Student [https://drive.google.com/file/d/1Zvh9OwJPktfDSie0_XEx1gPiXXUxxem5/view?usp=drive_link](https://drive.google.com/file/d/1Zvh9OwJPktfDSie0_XEx1gPiXXUxxem5/view?usp=drive_link)
+-🧠 Data Aficionado: Harnessing data's latent potential to drive insightful decision-making.
+-🤝 Team Player: Collaborative and thrive in group projects.
+-🌱 I’m currently learning C++, Web2.
+-💬 Clear Communicator: Bridging technical and non-technical gaps.
+-⚡ Problem-Solver: Adaptable, quick to tackle challenges.
+-📫 parshvijain1508@gmail.com
+-🎯 Detail-Oriented: Precision-driven in both code and tasks.
+-🚀 Growth Mindset: Always striving to improve and innovate
+- ⚡ Fun fact: **Can spend hours on figuring out something stupid.**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshvi1508&label=Profile%20views&color=0e75b6&style=flat" alt="parshvi1508" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshvi1508" alt="parshvi1508" /></a> </p>
@@ -8,7 +17,14 @@
 <p align="left"> <a href="https://twitter.com/jain_1508" target="blank"><img src="https://img.shields.io/twitter/follow/jain_1508?logo=twitter&style=for-the-badge" alt="jain_1508" /></a> </p>
 
 - 📄 Ambitious CS Student [https://drive.google.com/file/d/1Zvh9OwJPktfDSie0_XEx1gPiXXUxxem5/view?usp=drive_link](https://drive.google.com/file/d/1Zvh9OwJPktfDSie0_XEx1gPiXXUxxem5/view?usp=drive_link)
-
+-🧠 Data Aficionado: Harnessing data's latent potential to drive insightful decision-making.
+-🤝 Team Player: Collaborative and thrive in group projects.
+-🌱 I’m currently learning C++, Web2.
+-💬 Clear Communicator: Bridging technical and non-technical gaps.
+-⚡ Problem-Solver: Adaptable, quick to tackle challenges.
+-📫 parshvijain1508@gmail.com
+-🎯 Detail-Oriented: Precision-driven in both code and tasks.
+-🚀 Growth Mindset: Always striving to improve and innovate
 - ⚡ Fun fact: **Can spend hours on figuring out something stupid.**
 
 <h3 align="left">Connect with me:</h3>
