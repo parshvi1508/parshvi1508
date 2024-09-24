@@ -1,6 +1,4 @@
-![Gradient Background](https://raw.githubusercontent.com/your_username/your_repository/main/gradient-background.png)
-
-<h1 align="left">Hi 👋, I'm Parshvi Jain</h1>
+<h1 align="center">Hi 👋, I'm Parshvi Jain</h1>
 <h3 align="left">Coding Dreams into Reality: Exploring the Art of Software, One Commit at a Time.</h3>
 
 - 📄 **Ambitious CS Student**: [Resume](https://drive.google.com/file/d/1Zvh9OwJPktfDSie0_XEx1gPiXXUxxem5/view?usp=drive_link)
@@ -14,10 +12,10 @@
 - 🚀 **Growth Mindset**: Always striving to improve and innovate.
 - ⚡ **Fun Fact**: Can spend hours figuring out something trivial.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parshvi1508&label=Profile%20views&color=0e75b6&style=flat" alt="parshvi1508" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=parshvi1508&label=Profile%20views&color=0e75b6&style=flat" alt="parshvi1508" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/jain_1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jain_1508" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parshvi-jain-0a51a7299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parshvi-jain-0a51a7299" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/parshvi1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parshvi1508" height="30" width="40" /></a>
@@ -25,8 +23,8 @@
 <a href="https://codeforces.com/profile/pjain_1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pjain_1508" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
