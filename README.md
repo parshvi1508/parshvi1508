@@ -36,11 +36,14 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
+<h3 align="center">Graphs</h3>
+<div align="center" style="background: linear-gradient(90deg, pink, purple, white, blue); padding: 10px; border-radius: 10px; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=parshvi1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="parshvi1508 GitHub stats" style="width: 100%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshvi1508&layout=compact&theme=algolia" alt="parshvi1508 Top Languages" style="width: 100%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshvi1508&theme=algolia" alt="parshvi1508 GitHub Streak" style="width: 100%; opacity: 0.9; border-radius: 10px;" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parshvi1508&show_icons=true&locale=en&layout=compact" alt="parshvi1508" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parshvi1508&show_icons=true&locale=en" alt="parshvi1508" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parshvi1508&" alt="parshvi1508" /></p>
-[![An image of @parshvi15085's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parshvi15085)](https://holopin.io/@parshvi15085)
+<img src="https://holopin.me/parshvi15085)](https://holopin.io/@parshvi15085)"/>
 
