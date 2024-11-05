@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshvi1508&theme=algolia" alt="parshvi1508 GitHub Streak" style="width: 100%; opacity: 0.9; border-radius: 10px;" />
 </div>
 
-
+[![An image of @parshvi1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parshvi1508)](https://holopin.io/@parshvi1508)
 
 <img src="https://holopin.me/parshvi15085)](https://holopin.io/@parshvi15085)"/>
 
