@@ -45,5 +45,4 @@
 
 [![An image of @parshvi1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parshvi1508)](https://holopin.io/@parshvi1508)
 
-<img src="https://holopin.me/parshvi15085)](https://holopin.io/@parshvi15085)"/>
 
