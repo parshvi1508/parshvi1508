@@ -1,6 +1,5 @@
-<h1  align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1  align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Parshvi Jain</h1>
 
-<h1 align="center"> I'm Parshvi Jain</h1>
 <h3 align="center">Ad Astra per Aspera!</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+CS+Undergrad.">
@@ -35,19 +34,21 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </p>
 
 <h3 align="center">Graphs</h3>
-<div align="center" style="background: linear-gradient(90deg, pink, purple, white, blue); padding: 10px; border-radius: 10px; display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=parshvi1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="parshvi1508 GitHub stats" style="width: 70%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshvi1508&layout=compact&theme=algolia" alt="parshvi1508 Top Languages" style="width: 50%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshvi1508&theme=radical" alt="parshvi1508 GitHub Streak" style="width: 50%; opacity: 0.9; border-radius: 10px;" />
+<div align="center"  style="background: linear-gradient(90deg, pink, purple, white, blue); padding: 10px; border-radius: 10px; display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=parshvi1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="parshvi1508 GitHub stats" style="width: 40%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshvi1508&layout=compact&theme=algolia" alt="parshvi1508 Top Languages" style="width: 30%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parshvi1508&theme=radical" alt="parshvi1508 GitHub Streak" style="width: 40%; opacity: 0.9; border-radius: 10px;" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshvi1508&theme=algolia" alt="parshvi1508" /></a> </p>
+
 
 </div>
 
