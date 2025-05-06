@@ -15,43 +15,115 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parshvi1508&label=Profile%20views&color=0e75b6&style=flat" alt="parshvi1508" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/jain_1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jain_1508" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parshvi-jain-0a51a7299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parshvi-jain-0a51a7299" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parshvi1508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parshvi1508" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/parshvi_jain_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="parshvi_jain_101" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pjain_1508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pjain_1508" height="30" width="40" /></a>
-</p>
+<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<div align="center">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="45" height="45"/></a>
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  
-  <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/remix-run/remix-run-icon.svg" alt="remix" width="40" height="40"/></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-  
-  <!-- ML & AI -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://huggingface.co/favicon.ico" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  
-  <!-- Tools & Databases -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-</div>
+<table align="center" style="table-layout: fixed; width: 480px;">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+      <br>Python
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" />
+      <br>C
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+      <br>CSS3
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.worldvectorlogo.com/logos/remix.svg" alt="Remix" width="48" height="48" />
+      <br>Remix
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
+      <br>Flask
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="48" height="48" />
+      <br>Vite
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="80">
+      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="48" height="48" />
+      <br>HuggingFace
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+      <br>Pandas
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
+      <br>NumPy
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="48" height="48" />
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="YOLOv" width="48" height="48" />
+      <br>YOLOv
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="48" height="48" />
+      <br>Bash
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+      <br>Git
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br>GitHub
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="48" height="48" />
+      <br>Vim
+    </td>
+    <td align="center" width="80">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Graphs</h3>
 <div align="center"  style="background: linear-gradient(90deg, pink, purple, white, blue); padding: 10px; border-radius: 10px; display: inline-block;">
@@ -73,3 +145,13 @@
 
 
 [![An image of @parshvi1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parshvi1508)](https://holopin.io/@parshvi1508)
+
+<h3 align="center">Connect with me</h3>
+<div align="center">
+  <a href="mailto:parshvijain1508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/parshvi-jain-0a51a7299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/jain_1508"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.codechef.com/users/parshvi1508"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://www.hackerrank.com/parshvi_jain_101"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://codeforces.com/profile/pjain_1508"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
+</div>
