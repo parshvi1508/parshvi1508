@@ -2,21 +2,23 @@
 
 <h3 align="center">Ad Astra per Aspera!</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+CS+Undergrad.;>+Aspiring+Data+Scientist;>+Passionate+about+AI+and+ML.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&pause=500&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=%3E+Data+Science+%40+IITM%2C+CS+%40+ABES;Aspiring+Data+Scientist;ML+%7C+AI+%7C+Sustainability" />
 </p>
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 
-- 📄 **Ambitious CS Student**
-- ⚡ **Problem-Solver**: Adaptable, quick to tackle challenges, bridging technical and non-technical gaps.
+- 🎓 I'm pursuing CS @ ABES and BS Data Science @ IITM.
+- 📄 I am adaptable and always ready to tackle challenges.
 - 📫 **Email**: parshvijain1508@gmail.com
-- 🚀 **Curious about tech**: Quick to learn, love building things that make sense and vibe into reading.
-- 🧩 **Fun Fact**: Can spend hours figuring out something trivial just for the joy of learning.
+- 🧠  Curious about tech, Quick to learn, love building things that make sense and vibe into reading.
+- 🧩 I love building things that combine AI with purpose — especially in sustainability.
+- ⚡ Quick learner, obsessed with figuring things out (even the tiniest bugs).
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parshvi1508&label=Profile%20views&color=0e75b6&style=flat" alt="parshvi1508" /> </p>
 
 <h3 align="center">Languages and Tools</h3>
-<h3 align="center">Languages and Tools</h3>
+
 
 <table align="center" style="table-layout: fixed; width: 480px;">
   <tr>
