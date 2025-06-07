@@ -1,11 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Parshvi Jain</h1>
 
 <h3 align="center">Ad Astra per Aspera!</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&pause=500&color=39FF14&background=00000000&center=true&vCenter=true&width=500&lines=%3E+Data+Science+%40+IITM%2C+CS+%40+ABES;Aspiring+Data+Scientist;ML+%7C+AI+%7C+Sustainability" />
-</p>
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&pause=500&color=FF6EC7&background=00000000&center=true&vCenter=true&width=500&lines=%3E+Data+Science+%40+IITM%2C+CS+%40+ABES;Aspiring+Data+Scientist;ML+%7C+AI+%7C+Sustainability" />
+</p>
+
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 - 🎓 I'm pursuing CS @ ABES and BS Data Science @ IITM.
 - 📄 I am adaptable and always ready to tackle challenges.
