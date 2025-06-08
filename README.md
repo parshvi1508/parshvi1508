@@ -128,7 +128,7 @@
   </tr>
 </table>
 
-<h3 align="center">Graphs</h3>
+
 <div align="center"  style="background: linear-gradient(90deg, pink, purple, white, blue); padding: 10px; border-radius: 10px; display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api?username=parshvi1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="parshvi1508 GitHub stats" style="width: 40%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parshvi1508&layout=compact&theme=algolia" alt="parshvi1508 Top Languages" style="width: 30%; opacity: 0.9; border-radius: 10px; margin-bottom: 10px;" />
