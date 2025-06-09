@@ -137,11 +137,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshvi1508&theme=algolia" alt="parshvi1508" /></a> </p>
 <div align="center">
  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parshvi1508&theme=tokyonight" height="180em" alt="productive-time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parshvi1508&theme=radical" height="180em" alt="productive-time" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parshvi1508&theme=tokyonight" height="180em" alt="profile-details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parshvi1508&theme=radical" height="180em" alt="profile-details" />
 </div>
 
 </div>
