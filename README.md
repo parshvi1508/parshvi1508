@@ -8,7 +8,7 @@
 
 <img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
-- 🎓 I'm pursuing CS @ ABES and BS Data Science @ IITM.
+- 🎓 CS @ ABES and BS Data Science @ IITM.
 - 📄 I am adaptable and always ready to tackle challenges.
 - 📫 **Email**: parshvijain1508@gmail.com
 - 🧠  Curious about tech, Quick to learn, love building things that make sense and vibe into reading.
