@@ -149,7 +149,7 @@
 
 [![An image of @parshvi1508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parshvi1508)](https://holopin.io/@parshvi1508)
 
-<h3 align="center">Connect with me</h3>
+
 <div align="center">
   <a href="mailto:parshvijain1508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/parshvi-jain-0a51a7299"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
