@@ -16,7 +16,6 @@
 - ⚡ Quick learner, obsessed with figuring things out (even the tiniest bugs).
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=parshvi1508&label=Profile%20views&color=0e75b6&style=flat" alt="parshvi1508" /> </p>
 
 <h3 align="center">Languages and Tools</h3>
 
