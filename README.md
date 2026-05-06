@@ -12,7 +12,7 @@
 - I am adaptable and always ready to tackle challenges.
 - **Email**: parshvijain1508@gmail.com
 - Curious about tech, Quick to learn, love building things that make sense and vibe into reading.
-- I love building things that combine AI with purpose — especially in sustainability.
+- I love building things that combine AI with purpose especially in sustainability.
 - Quick learner, obsessed with figuring things out (even the tiniest bugs).
 
 
